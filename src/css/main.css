@@ -45,6 +45,8 @@ header .logo {
     text-transform: uppercase;
     font-size: 30px;
     font-weight: 800;
+    width: 100px;
+    height: auto;
 }
 
 header nav {
@@ -104,6 +106,7 @@ header nav ul li.btn a:hover {
     margin-top: -50px;
     position: relative;
     z-index: 1;
+    margin-bottom: 100px;
 }
 
 .hero-info{
@@ -409,6 +412,12 @@ header nav ul li.btn a:hover {
 
 .features .info .block img {
     margin-bottom: 15px;
+}
+
+footer img {
+    width: 150px;
+    height: auto;
+    margin-bottom: 20px;
 }
 
 footer {
